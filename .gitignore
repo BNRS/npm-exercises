@@ -1,0 +1,4 @@
+package-lock.json
+public/main.js
+*.map
+node_modules
