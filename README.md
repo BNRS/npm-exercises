@@ -1,1 +1,1 @@
-this is an exercise using npm run build to run es6 on older browsers and devices
+this is an exercise using npm run build to run es6 on older browsers and devices.
