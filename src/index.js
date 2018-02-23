@@ -1,6 +1,6 @@
 const $ = require('jquery');
 const data = require('./say-hello.js');
-const niceMessage = require('./say-hello.js');
+const hello = require('./say-hello.js');
 // test //
 $('body').html('Run es6 on older browsers and devices!');
 
@@ -15,6 +15,6 @@ console.log(sayHello('ben'));
 console.log(data.whichSideOfTheForce); // outputs "The Dark Side"
 
 // from niceMessage require //
-niceMessage(); // 'What a nice message!'
+hello(); // 'It works!!'
 
 
