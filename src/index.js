@@ -2,7 +2,7 @@ const $ = require('jquery');
 const data = require('./say-hello.js');
 const niceMessage = require('./say-hello.js');
 // test //
-$('body').html('Run es6 on older browsers and devices!!!');
+$('body').html('Run es6 on older browsers and devices!');
 
 // test //
 const sayHello = name => {
